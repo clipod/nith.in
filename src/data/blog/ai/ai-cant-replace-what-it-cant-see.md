@@ -8,7 +8,7 @@ tags:
   - leadership
   - career
 description: "Companies are replacing senior talent with juniors and AI tools. But the most critical knowledge in any organization — the kind that drives real decisions — is invisible to AI entirely."
-ogImage: "/site-og-v2.png"
+ogImage: "https://nith.in/site-og-v2.png"
 ---
 
 There's a playbook gaining traction in boardrooms: cut expensive senior talent, hire cheaper junior people, hand them AI tools, and call it "transformation." On a spreadsheet, it looks brilliant. In practice, it's a recipe for disaster.
