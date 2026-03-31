@@ -26,7 +26,7 @@ I maintain technical depth through hands-on experimentation so I can make better
 
 ## Beyond Work
 
-When I'm not architecting systems or writing, you'll find me expanding my homelab, experimenting with IoT, or diving into the latest AI research papers. I'm endlessly curious about how things work and how they can work better.
+When I'm not architecting systems or writing, you'll find me expanding my homelab, experimenting with IoT, or diving into the latest AI research. I'm endlessly curious about how things work and how they can work better.
 
 ## Get in Touch
 
