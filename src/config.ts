@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://nith.in/about",
   desc: "Writing on software architecture, engineering leadership, AI/agentic systems, and the homelab-to-enterprise pipeline.",
   title: "nith.in",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "site-og-v2.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 8,
