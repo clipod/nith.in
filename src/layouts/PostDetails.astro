@@ -35,7 +35,12 @@ const {
   hideEditPost,
 } = post.data;
 
-const { Content } = await render(post);
+const { Content, remarkPluginFrontmatter } = await render(post);
+
+// Calculate reading time (avg 200 words per minute)
+const body = post.body ?? "";
+const words = body.split(/\s+/).filter(Boolean).length;
+const readingTime = Math.max(1, Math.ceil(words / 200));
 
 let ogImageUrl: string | undefined;
 
@@ -98,6 +103,8 @@ const nextPost =
     </h1>
     <div class="my-2 flex items-center gap-2">
       <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
+      <span aria-hidden="true" class="opacity-80">|</span>
+      <span class="text-sm opacity-80 sm:text-base">{readingTime} min read</span>
       <span
         aria-hidden="true"
         class:list={[
