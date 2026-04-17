@@ -26,3 +26,6 @@ pnpm-debug.log*
 # pagefind
 
 public/pagefind
+
+# local research notes (project ideas, positioning drafts, article outlines)
+research/

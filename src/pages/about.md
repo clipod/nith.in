@@ -2,32 +2,31 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
-
 ## Hey, I'm Venkat
 
-I'm a software architect working on enterprise systems, with a deep interest in building things that scale — both technically and organizationally.
+I'm a software architect in the AI Center of Excellence on an enterprise team. I build the platform layer that turns AI from demos into systems you can actually trust in production — evaluation strategy, monitoring, data architecture, and the calibration infrastructure that catches what models get wrong.
 
-My day job involves designing distributed architectures, making platform decisions, and helping engineering teams ship reliably. Outside of work, I run a homelab where I tinker with AI/agentic systems, IoT devices, and whatever new technology catches my attention.
+Most AI projects don't fail because the models are bad. They fail because the system around the model — eval, monitoring, guardrails, graceful degradation — was never architected. That's the work I do: design it, build POCs, and stress-test it before it touches production.
+
+I'm also in the middle of a transition I think a lot of architects are navigating — growing from the person who designs the system to the person who builds the team and the strategy around it. I write about that too, because the mental model shifts from IC to architect to director are real and nobody hands you a manual.
 
 ## What I Write About
 
-This site is where I share what I learn — connecting the dots between hands-on experimentation and enterprise-scale thinking:
+Three threads that keep overlapping:
 
-- **Software Architecture** — Patterns, trade-offs, and real-world decisions at scale
-- **Engineering Leadership** — The mental model shifts from IC to architect to director
-- **AI & Agentic Systems** — Building and experimenting with autonomous AI workflows
-- **Homelab to Enterprise** — What tinkering in my homelab teaches me about production systems
+**AI** — How AI is reshaping organizations, and what it takes to build AI systems that actually work in production. Both the impact side — what changes about work, knowledge, and teams when AI enters — and the builder side — evaluation, monitoring, data readiness, and the architecture that makes non-deterministic systems trustworthy.
+
+**Software architecture & engineering leadership** — The trade-offs, mental models, and lessons from building systems at scale. And increasingly, the leadership side: how you go from having the best technical answer in the room to making sure the room arrives at the best answer without you.
+
+**Homelab** — I run a homelab where I break things on purpose. Most of what I learn about reliability at scale, I learned first by watching something fail in my garage. Currently running Karpathy's autoresearch project on my GPU and upgrading my home network with UniFi.
 
 ## My Philosophy
 
-I believe the best engineering leaders are synthesizers, not just inventors. The value isn't in discovering something no one has seen before — it's in connecting existing ideas in ways that create clarity and drive action for your team.
+The best architects are synthesizers, not inventors. The value isn't in discovering something no one has seen before — it's in connecting existing ideas in ways that create clarity and drive action for your team.
 
-I maintain technical depth through hands-on experimentation so I can make better strategic decisions. I think more leaders should keep their hands dirty.
-
-## Beyond Work
-
-When I'm not architecting systems or writing, you'll find me expanding my homelab, experimenting with IoT, or diving into the latest AI research. I'm endlessly curious about how things work and how they can work better.
+I keep my hands on the work — POCs, evaluations, code — because strategy without building drifts into slideware pretty fast.
 
 ## Get in Touch
 
-I'm always happy to connect with fellow technologists and leaders. Reach me at [venk@nith.in](mailto:venk@nith.in) or find me on [GitHub](https://github.com/clipod) and [LinkedIn](https://www.linkedin.com/in/venkat-chinni/).
+Always happy to connect with fellow architects and builders. Reach me at [venk@nith.in](mailto:venk@nith.in) or find me on [LinkedIn](https://www.linkedin.com/in/venkat-chinni/).
+

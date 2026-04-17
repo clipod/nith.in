@@ -17,12 +17,12 @@ interface Social {
 }
 
 export const SOCIALS: Social[] = [
-  {
-    name: "GitHub",
-    href: "https://github.com/clipod",
-    linkTitle: `${SITE.title} on GitHub`,
-    icon: IconGitHub,
-  },
+  // {
+  //   name: "GitHub",
+  //   href: "https://github.com/clipod",
+  //   linkTitle: `${SITE.title} on GitHub`,
+  //   icon: IconGitHub,
+  // },
   {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/venkat-chinni/",
