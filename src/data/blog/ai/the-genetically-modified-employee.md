@@ -11,8 +11,6 @@ description: "Companies are encoding their best people's capabilities into AI ag
 ogImage: "https://nith.in/site-og-v2.png"
 ---
 
-# The Genetically Modified Employee
-
 There's a pitch — sometimes said explicitly, more often just implied in every AI transformation roadmap — that goes like this:
 
 "We can take the reasoning and execution capabilities of our best people, encode them into an agent, and deploy that capability at scale — without the overhead of managing actual people."

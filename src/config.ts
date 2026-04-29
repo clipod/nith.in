@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://nith.in/",
   author: "Venkat Chinni",
   profile: "https://nith.in/about",
-  desc: "Writing on software architecture, the systems that make enterprise AI trustworthy, and what my homelab teaches me about building reliable technology.",
+  desc: "Writing on software architecture, the systems that make enterprise AI trustworthy, and what my workshop teaches me about building reliable technology.",
   title: "nith.in",
   ogImage: "site-og-v2.png",
   lightAndDarkMode: true,

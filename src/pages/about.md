@@ -18,7 +18,7 @@ Three threads that keep overlapping:
 
 **Software architecture & engineering leadership** — The trade-offs, mental models, and lessons from building systems at scale. And increasingly, the leadership side: how you go from having the best technical answer in the room to making sure the room arrives at the best answer without you.
 
-**Homelab** — I run a homelab where I break things on purpose. Most of what I learn about reliability at scale, I learned first by watching something fail in my garage. Currently running Karpathy's autoresearch project on my GPU and upgrading my home network with UniFi.
+**Workshop** — Most of what I know about running systems reliably, I learned at home. My homelab runs like a small production environment — Proxmox virtualization, a UniFi network with VLANs and IDS/IPS, a NAS for storage, Traefik for ingress, plus a stack of services on top (DNS, Portainer, Home Assistant, Homebridge, IoT). The [workshop](/workshop) is the lab; the essays are the notes.
 
 ## My Philosophy
 

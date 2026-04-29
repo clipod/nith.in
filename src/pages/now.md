@@ -13,7 +13,7 @@ Building an AI platform strategy for my current company. Evaluating cloud vendor
 
 ## Side Projects
 
-Upgrading my home network architecture with UniFi. Testing Karpathy's autoresearch project on my homelab GPU. Contributing to claude-code plugin for session management.
+Upgrading my home network architecture with UniFi. Testing Karpathy's autoresearch project on the GPU in my [workshop](/workshop). Contributing to claude-code plugin for session management.
 
 ## Learning
 

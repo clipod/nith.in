@@ -44,13 +44,13 @@ const isActive = (path: string) => {
   >
     <a
       href="/"
-      class="absolute py-1 text-xl leading-8 font-semibold whitespace-nowrap sm:static sm:my-auto sm:text-2xl sm:leading-none"
+      class="absolute py-1 text-lg leading-8 font-semibold whitespace-nowrap sm:static sm:my-auto sm:text-xl sm:leading-none"
     >
       Venkat Nithin Chinni
     </a>
     <nav
       id="nav-menu"
-      class="flex w-full flex-col items-center sm:ms-2 sm:flex-row sm:justify-end sm:space-x-4 sm:py-0"
+      class="flex w-full flex-col items-center sm:ms-8 sm:flex-row sm:justify-end sm:space-x-4 sm:py-0"
     >
       <button
         id="menu-btn"
@@ -74,6 +74,14 @@ const isActive = (path: string) => {
         <li class="col-span-2">
           <a href="/posts" class:list={{ "active-nav": isActive("/posts") }}>
             Writing
+          </a>
+        </li>
+        <li class="col-span-2">
+          <a
+            href="/workshop"
+            class:list={{ "active-nav": isActive("/workshop") }}
+          >
+            Workshop
           </a>
         </li>
         <li class="col-span-2">
